@@ -1,0 +1,15 @@
+
+.container { 
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(55, 178, 178);
+    margin-top: 20%;
+    border-radius: 2%;
+}
+
+input {
+    margin-top: 50px;
+    height: 50px;
+    border-radius: 5%;
+}
